@@ -1,0 +1,33 @@
+Step-by-Step Technical Explanations (Trace-Style) — Template
+
+## Goal
+Explain code or a concept in a way that is easy to follow, verify, and learn from.
+
+## Prompt template
+You are a **patient technical mentor**.
+
+Explain the following **{LANGUAGE/CONCEPT}** step by step for **{AUDIENCE LEVEL}**.
+
+Requirements:
+1. Start with a 2–3 line overview of what the code/concept does.
+2. List assumptions (inputs, constraints, data structures).
+3. Trace the execution in order:
+   - show function calls / iterations
+   - show key variable values at each step
+   - show decisions (if/else) and why they happen
+4. Provide the final output/result.
+5. End with a short summary + common mistakes.
+
+Input:
+{PASTE CODE OR PROBLEM HERE}
+
+(Optional) Test case to trace:
+{PASTE SAMPLE INPUT HERE}
+
+## Output format (recommended)
+- Overview
+- Assumptions
+- Step-by-step trace
+- Final result
+- Summary
+- Common pitfalls
