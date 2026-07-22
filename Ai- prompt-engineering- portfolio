@@ -1,0 +1,64 @@
+# AI Prompt Engineering Portfolio
+
+I’m Durga ram prasad Dasari — a prompt engineer specializing in:
+- **Tone matching / persona control** (brand voice)
+- **Structured data extraction** (clean, JSON-only outputs for automation)
+- **Clear technical explanations** (trace-style, step-by-step)
+
+This repo contains reusable prompts + sample before/after outputs.
+
+---
+
+## What’s inside
+
+- `prompts/` → the actual prompt templates you can reuse
+- `samples/` → before/after examples and formatted outputs
+
+Recommended file list:
+- `prompts/tone-persona.md`
+- `prompts/step-by-step-explanations.md`
+- `prompts/few-shot-voice.md`
+- `prompts/json-extraction.md`
+
+---
+
+## Portfolio Highlights
+
+### 1) Role Prompting — Tone & Persona Control
+**Use case:** Product descriptions that sound persuasive and brand-specific (not generic).​NOTION_TWS[  ]NOTION_TWS​
+**Technique:** Define a role + audience + constraints (what to emphasize, what to avoid).​NOTION_TWS[  ]NOTION_TWS​
+**Outcome:** Copy feels intentional, consistent, and conversion-focused.
+
+### 2) Step-by-Step Technical Explanations — Traceable Walkthroughs
+**Use case:** Making unfamiliar code understandable.​NOTION_TWS[  ]NOTION_TWS​
+**Technique:** Ask for a sequential trace (inputs → calls → outputs) and verification points.​NOTION_TWS[  ]NOTION_TWS​
+**Outcome:** Explanations become easy to follow and easier to trust.
+
+### 3) Few-Shot Prompting — Brand Voice Matching
+**Use case:** Rewriting casual messages into a consistent professional tone.​NOTION_TWS[  ]NOTION_TWS​
+**Technique:** Provide 2–3 examples first, then request the same style transformation.​NOTION_TWS[  ]NOTION_TWS​
+**Outcome:** Much more consistent tone and structure across rewrites.
+
+### 4) System-Style Instructions — Clean, Structured Output (JSON)
+**Use case:** Extracting structured fields from messy text for automation.​NOTION_TWS[  ]NOTION_TWS​
+**Technique:** Strict formatting rules: **JSON only**, fixed keys, no extra text.​NOTION_TWS[  ]NOTION_TWS​
+**Outcome:** Output can be pasted directly into an app/database pipeline.
+
+---
+
+## Services (freelance / part-time)
+- Brand voice rewrites (emails, LinkedIn posts, website copy, product descriptions)
+- Prompt packs for consistent tone + reusable templates
+- JSON extraction prompts for automation-ready structured output
+- Technical explanation prompts (trace-style)
+
+---
+
+## Links
+- Notion portfolio page: https://app.notion.com/p/AI-Prompt-Engineering-Portfolio-2e5cafa8cf3649c1b36dfb3d363588a0?source=copy_link
+- Email: ramdasari.prompt1@gmail.com
+
+---
+
+## About Me
+- 2nd-year B.Tech student with a foundation in data structures and programming, applying that background to prompt engineering — building precise, reliable prompts for content, explanations, and data workflows.
