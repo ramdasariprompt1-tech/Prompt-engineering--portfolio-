@@ -1,0 +1,31 @@
+# Role Prompting — Tone & Persona Control (Template)
+
+## Goal
+Generate brand-specific copy that matches a defined voice and audience (not generic AI text).
+
+## Prompt template
+You are a **{ROLE}** at **{BRAND TYPE}**.
+
+Write a **{CONTENT TYPE}** for **{PRODUCT/SERVICE}** targeting **{AUDIENCE}**.
+
+Tone: **{TONE ADJECTIVES}**NOTION_TWS[  ]NOTION_TWS
+Constraints:
+- Be persuasive but honest (no exaggerated claims)
+- Keep it clear and scannable
+- Highlight: {KEY BENEFITS}
+- Avoid: {BANNED WORDS/CLAIMS}
+Format: {FORMAT REQUIREMENTS}
+
+## Inputs to provide
+- Product/service details:
+- Audience:
+- Tone/voice references (optional):
+- Key benefits:
+- Any must-include keywords:
+- Any banned claims:
+
+## Example (short)
+Role: senior copywriterNOTION_TWS[  ]NOTION_TWS
+Audience: college students + young professionalsNOTION_TWS[  ]NOTION_TWS
+Tone: premium, friendly, confidentNOTION_TWS[  ]NOTION_TWS
+Highlight: durability, battery life, value for money
