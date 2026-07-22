@@ -1,0 +1,35 @@
+# Few-Shot Prompting — Brand Voice Matching (Template)
+
+## Goal
+Rewrite text in a consistent tone by providing a few examples first (few-shot).
+
+## Prompt template
+You are a **professional editor**. Your job is to rewrite text to match the style shown in the examples.
+
+### Style rules (follow strictly)
+- Keep the meaning the same (do not add new facts)
+- Improve clarity and professionalism
+- Keep it human (avoid robotic/overly formal phrasing)
+- Maintain the structure patterns from the examples
+
+### Examples (few-shot)
+Example 1 — Before:
+{PASTE CASUAL TEXT 1}
+
+Example 1 — After:
+{PASTE PROFESSIONAL VERSION 1}
+
+Example 2 — Before:
+{PASTE CASUAL TEXT 2}
+
+Example 2 — After:
+{PASTE PROFESSIONAL VERSION 2}
+
+### Now rewrite this in the same style:
+Text:
+{PASTE USER TEXT HERE}
+
+Output requirements:
+- Output only the rewritten text
+- No explanations
+- Keep length within ±20% unless asked otherwise
